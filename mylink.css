@@ -1,0 +1,35 @@
+html {
+    background-color: #000000;
+}
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+    font-family: sans-serif;
+}
+
+h1,
+    color: #ffffff;
+}
+
+a {
+    color: #cc0000;
+}
+
+a:link {
+    color: #cc0000;
+}
+
+a:visited {
+    color: #999999;
+}
+
+a:hover {
+    background: #cc0000;
+    color: #ffff99;
+    text-decoration: none
+}
+
+ul {
+    list-style-type: none;
+}

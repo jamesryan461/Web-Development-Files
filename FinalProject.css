@@ -53,23 +53,19 @@ div{
 }
 
 a {
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     color: #ffcccc;
     background-color: 
 }
 
 a:link {
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     color: #ffcccc;
 }
 
 a:visited {
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     color: #995599;
 }
 
 a:hover {
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     background: #ffffff;
     color: #ff9999;
     text-decoration: none;

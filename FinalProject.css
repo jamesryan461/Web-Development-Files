@@ -68,7 +68,9 @@ a:visited {
 a:hover {
     background: #ffcccc;
     color: #ff9999;
-    text-decoration: none
+    text-decoration: none;
+               padding-right: 40px;
+               padding-left: 40px;
 }
 
 a href {
@@ -80,11 +82,15 @@ ul {
     text-decoration: none;
 }
 
-nav ul { list-style-type: none;}
+nav ul { list-style-type: none;
+}
+
 nav a { text-decoration: none; 
                padding-right: 40px;
-               padding-left: 40px;}
-nav li {  display: inline; }
+               padding-left: 40px;
+}
+
+nav li {  display: inline; 
 }
 
 img {

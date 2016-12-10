@@ -72,6 +72,7 @@ a:hover {
 }
 
 a href {
+    display: none;
     align-content: center;
 }
 
@@ -85,7 +86,8 @@ nav ul {
 }
 
 nav a { 
-    text-decoration: block; 
+    display: block;
+    text-decoration: none; 
                padding-right: 40px;
                padding-left: 40px;
 }
@@ -100,7 +102,6 @@ img {
     background: transparent;
     border: 10px solid rgba(0, 0, 0, 0.12);
     border-radius: 4px;
-    display: block;
     margin: 1.3em auto;
     max-width: 95%;
     align-content: center;

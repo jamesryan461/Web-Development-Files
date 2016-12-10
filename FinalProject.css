@@ -1,5 +1,5 @@
 html {
-    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 250%, rgb(999,999,999) 93%);
+    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 93%);
     background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 93%);
     background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.25, rgb(99,00,55)), color-stop(0.93, rgb(999,999,999)));
     background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 90%);

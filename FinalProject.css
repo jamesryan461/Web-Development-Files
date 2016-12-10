@@ -4,11 +4,9 @@ html {
 }
 head {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", sans-serif;
     font-size: 32px;
     text-align: center;
-    max-width: 800px;
-    padding: 2em 2em 4em;
 }
 body {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
@@ -24,6 +22,7 @@ body {
 }
 
 h1 {
+    text-align: center;
     text-decoration: none; 
     text-decoration-line: underline;
                padding-right: 40px; };

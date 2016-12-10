@@ -1,11 +1,11 @@
 html {
-    background-image: -o-linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);
-    background-image: -moz-linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.01, rgb(000,000,000)), color-stop(0.99, rgb(999,999,999)));
-    background-image: -webkit-linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);
-    background-image: -ms-linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);
-    background-image: linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);;
     background: #990055;
+    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 100%);
+    background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 100%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.25, rgb(99,00,55)), color-stop(0.99, rgb(999,999,999)));
+    background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 100%);
+    background-image: -ms-linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 100%);
+    background-image: linear-gradient(bottom, rgb(99,00,55) 25%, rgb(999,999,999) 100%);;
 }
 
 head {

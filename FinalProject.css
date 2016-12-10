@@ -1,9 +1,5 @@
 html {
-    background-image: -o-linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
-    background-image: -moz-linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
-    background-image: -webkit-linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
-    background-image: -ms-linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
-    background-image: linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
+    background-image: -o-linear-gradient(bottom, rgb(000,000,000) 0%, rgb(999,999,999) 100%);
     background: #990055;
 }
 

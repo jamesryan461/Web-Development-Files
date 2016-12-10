@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	
+	<title>Embedding Audio #1</title>
+	
+	<link rel="stylesheet" type="text/css" href="css/style.css" />
+	
+    <script type="text/javascript" src="js/audio-player.js"></script>
+    
+    <script type="text/javascript" src="path/to/audio-player.js"></script>  
+    <script type="text/javascript">  
+             AudioPlayer.setup("flash/player.swf", {  
+                 width: 290  
+             });  
+    </script> 
+</head>
+
+<body>
+
+	<div id="page-wrap">
+
+		<h1>Different Ways to Embed Audio</h1>
+		<p>By <a href="http://css-tricks.com"><strong>CSS</strong>-Tricks</a></p>
+		
+		
+		<h3>WordPress Audio Player (Standalone Version)</h3>
+        <p id="audioplayer_1">
+		  You will only see this if you don't have Flash and JavaScript available. Bummer dude.
+        </p>  
+        
+        <br />
+        
+        <p><a href="http://wpaudioplayer.com/standalone">Source Website</a></p> 
+        
+        <br />
+        
+        <a href="index.html">&lt; Back to demos</a>
+				
+	
+	</div>
+	
+	<script type="text/javascript">  
+        AudioPlayer.embed("audioplayer_1", {soundFile: "mp3s/teardownthesewalls.mp3"});  
+    </script> 
+
+</body>
+
+</html>

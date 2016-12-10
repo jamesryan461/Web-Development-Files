@@ -83,21 +83,17 @@ ul {
 }
 
 nav ul { 
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     list-style-type: none;
 }
 
 nav a { 
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     text-decoration: none; 
                padding-right: 40px;
                padding-left: 40px;
 }
 
 nav li {  
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     display: inline; 
-    box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
 }
 
 img {

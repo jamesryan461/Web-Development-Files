@@ -38,7 +38,7 @@ h2, h3, h4, h5, h6 {
 }
 
 div{
-    background-image: -webkit-linear-gradient(bottom, rgb(254,133,107) 24%, rgb(35,171,17) 62%);
+    background-image: -webkit-linear-gradient(top, #FCFEFF 0%, #AF00EF 100%);
 }
 
 a {

@@ -1,10 +1,10 @@
 html {
-    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.25, rgb(99,00,55)), color-stop(0.90, rgb(999,999,999)));
-    background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: -ms-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
+    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.40, rgb(99,00,55)), color-stop(0.90, rgb(999,999,999)));
+    background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: -ms-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
 }
 
 head {
@@ -44,12 +44,12 @@ h2, h3, h4, h5, h6 {
 }
 
 div{
-    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
+    background-image: -o-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: -moz-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
     background-image: -webkit-gradient(linear, left bottom, left top, color-stop(0.50, rgb(99,00,55)), color-stop(0.90, rgb(999,999,999)));
-    background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: -ms-linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
-    background-image: linear-gradient(bottom, rgb(99,00,55) 50%, rgb(999,999,999) 90%);
+    background-image: -webkit-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: -ms-linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
+    background-image: linear-gradient(bottom, rgb(99,00,55) 40%, rgb(999,999,999) 90%);
 }
 
 a {

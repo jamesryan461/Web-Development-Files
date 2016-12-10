@@ -2,7 +2,9 @@ html {
     background: #990055;
     background-blend-mode: hard-light;
 }
-
+head {
+    text-align: Center;
+}
 body {
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     color: #fff;

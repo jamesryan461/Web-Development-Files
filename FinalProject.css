@@ -14,14 +14,14 @@ html {
 }
 
 head {
-    font-family: "Helvetica Neue", sans-serif;
+    font-family: "Helvetica Neue", "sans-serif", "verdana";
     font-size: 32px;
     text-align: center;
 }
 body {
     background: none;
     color: #fff;
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-family: "Helvetica Neue", "Helvetica", "Arial", "sans-serif";
     font-size: 16px;
     line-height: 1.5;
     text-align: center;
@@ -104,12 +104,14 @@ ul {
 }
 
 nav ul { 
+    font: "verdana";
     background: #ffffff;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     list-style-type: none;
 }
 
 nav a { 
+    font: "verdana";
     color: #cc9999;
     background: #fff;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
@@ -119,12 +121,14 @@ nav a {
 }
 
 nav hover {
+    font: "verdana";
     background: none;
     color: #ff9999;
     text-decoration: none;
 }
 
 nav li {  
+    font: "verdana";
     background: #ffffff;
     box-shadow: 0 0 4px rgba(0, 0, 0, 0.06);
     display: inline; 

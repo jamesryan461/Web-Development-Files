@@ -68,9 +68,9 @@ div {
 
 div.content {
     width: 400px;
-    border: 4px white;
+    border: 2px white;
     opacity: 50%;
-    padding: 20px;
+    padding: 2px;
     overflow: hidden;
 }
 

@@ -66,6 +66,19 @@ div {
     background-image: linear-gradient(bottom, rgb(99,00,55) 30%, rgb(999,999,999) 93%);
 }
 
+div.content {
+    width: 400px;
+    border: 4px white;
+    opacity: 50%;
+    padding: 20px;
+    overflow: hidden;
+}
+
+.content img {
+    margin-right: 15px;
+    float: left;
+}
+
 div.block2 a.block_link {
     position:absolute;
     bottom:0;
